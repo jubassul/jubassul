@@ -2,10 +2,10 @@
   <h2> ✨Hi There, I'm Júlia 🧚‍♀️ </h2>
 </div>
 </br>
-<div align="center'>
+<div align="center">
   <a href="https://github.com/jubassul">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jubassul&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubassul&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jubassul&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubassul&layout=compact&langs_count=7&theme=monokai"/>
     </div>
  </br>
 <div align="center"
