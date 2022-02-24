@@ -1,5 +1,6 @@
 <div align="center">
-  <h2> ✨Hi There, I'm Júlia 🧚‍♀️ </h2>
+  <h2> ✨ Hi There, I'm Júlia 🧚‍♀️ </h2>
+  <p>  💻 Bootstrap 5, TypeScript, Angular, NodeJS, JQUERY, SQL, NOSQL </p>
 </div>
 </br>
 <div align="center">
