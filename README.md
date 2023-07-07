@@ -6,8 +6,8 @@
   ### Technologies
   </br>
  <div>
-  <p>Front-End: HTML5, CSS3, Javascript, TypeScript, React, and Vue.js</p>
-  <p>Back-End:  NodeJS</p>
+  <p>Front-End: HTML5, CSS3, Javascript, TypeScript, React, and Vue.js.</p>
+  <p>Back-End:  NodeJS.</p>
 </div>
 
  ##
