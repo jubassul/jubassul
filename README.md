@@ -8,7 +8,7 @@
  <div>
   <p>Front-End: HTML5, CSS3, Javascript, TypeScript, React, and Vue.js.</p>
   <p>Back-End:  NodeJS.</p>
-  <p>Database:  PostgreSQL, MySQL and MongoDB. </p>
+  <p>Databases:  PostgreSQL, MySQL and MongoDB. </p>
 </div>
 
  ##
