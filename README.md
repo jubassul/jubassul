@@ -1,14 +1,8 @@
   ### ✨ Hi there, welcome to my repositories!  🧚‍♀️
-  
-      👩🏼‍💻  I'm studying System Analysis and Development and finished Bootcamp at Soul Code Academy.
+      👩🏼‍💻  I'm a freelance software developer, focused on the frontend.
+      📚  I'm studying Systems Analysis and Development and finished Bootcamp at Soul Code Academy.
       🔍  I love exploring and learning new things.
 
-<div>
-  <a href="https://github.com/jubassul">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jubassul&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubassul&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-    </div>
   </br>
  <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="icon-html" height="30" width="40" />
