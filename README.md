@@ -1,18 +1,13 @@
-  ### ✨ Hi there, welcome to my repositories!  🧚‍♀️
-      👩🏼‍💻  I'm a freelance software developer, focused on the frontend.
-      📚  I'm studying Systems Analysis and Development and finished Bootcamp at Soul Code Academy.
-      🔍  I love exploring and learning new things.
-
+  ### ✨ Hi there, welcome to my repositories! 🧚‍♀️
+  
+      👩🏼‍💻 I'm studying Systems Analysis and Development.
+      🔍 I love exploring and learning new things.
+      
+  ### Technologies
   </br>
  <div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="icon-html" height="30" width="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="icon-css" height="30" width="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="icon-js" height="30" width="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="icon-ts" height="30" width="40" />  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  alt="icon-bootstrap" height="30" width="40" />  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="icon-angular" height="30" width="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="icon-react" height="30" width="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="icon-node" height="30" width="40" />  
+  <p>Front-End: HTML5, CSS3, Javascript, TypeScript, React, and Vue.js</p>
+  <p>Back-End:  NodeJS</p>
 </div>
 
  ##
